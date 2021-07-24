@@ -1,3 +1,4 @@
 OK
 
 New text in file!
+test
