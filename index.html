@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>PizzaTime</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:900%7CRoboto:300&display=swap&subset=cyrillic" rel="stylesheet">
+	<link rel="icon" type="image/png" href="img/favicon.png">
+	<link rel="stylesheet" href="css/index.css">
+</head>
+
+<body>
+
+	<div id="header"></div>
+	<div id="products"></div>
+	<div id="shopping"></div>
+	<div id="spinner"></div>
+	<div id="error"></div>
+	<div id="about" style="margin-top: 100px"></div>
+	<div id="main"></div>
+	<div id="page404" style="margin-top: 100px">page404</div>
+	<div id="order">
+		<!-- <p>Ваш заказ принят!</p>
+			<button onclick="shoppingPage.goToProducts()">
+				Перейти к товарам
+			</button> -->
+		</div>
+		<div id="footer"></div>
+		
+
+	<!-- Constants and Utils -->
+	<script src="constants/root.js"></script>
+	<script src="utils/localStorageUtil.js"></script>
+
+	<!-- Order -->
+	<script src="components/Order/Order.js"></script>
+	<link rel="stylesheet" href="components/Order/Order.css">
+	<!-- Main -->
+	<script src="components/Main/Main.js"></script>
+	<link rel="stylesheet" href="components/Main/Main.css">
+
+	<!-- Header -->
+	<script src="components/Header/Header.js"></script>
+	<link rel="stylesheet" href="components/Header/Header.css">
+
+		<!-- Footer -->
+		<script src="components/Footer/Footer.js"></script>
+		<link rel="stylesheet" href="components/Footer/Footer.css">
+		<!-- About -->
+		<script src="components/About/About.js"></script>
+		<link rel="stylesheet" href="components/About/About.css">
+
+	<!-- Products -->
+	<script src="components/Products/Products.js"></script>
+	<link rel="stylesheet" href="components/Products/Products.css">
+
+
+
+	<!-- Spinner -->
+	<script src="components/Spinner/Spinner.js"></script>
+	<link rel="stylesheet" href="components/Spinner/Spinner.css">
+
+	<!-- Error -->
+	<script src="components/Error/Error.js"></script>
+	<link rel="stylesheet" href="components/Error/Error.css">
+	
+
+
+	<script src="index.js"></script>
+	<!-- Shopping -->
+	<script src="components/Shopping/Shopping.js"></script>
+	<link rel="stylesheet" href="components/Shopping/Shopping.css">
+	<!-- Spa -->
+	<script src="components/Spa/Spa.js"></script>
+	<link rel="stylesheet" href="components/Spa/Spa.css">
+	
+	
+</body>
+
+</html>
