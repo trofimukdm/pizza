@@ -1,0 +1,40 @@
+.section-info{
+	padding: 25px;
+	max-width: 1100px;
+	height: 250px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: stretch;
+}
+
+.section-info-adress{
+	background-image: url("./img/map.png");
+	background-repeat: no-repeat;
+	padding-left: 30px;
+}
+.section-info-adress span, .section-info-phone span, .section-info-working span {
+	color: var(--color-unaccent);
+}
+
+.section-info-phone{
+	background-image: url("./img/phone.png");
+	background-repeat: no-repeat;
+	padding-left: 40px;
+}
+.section-info-working{
+	background-image: url("./img/time.png");
+	background-repeat: no-repeat;
+	padding-left: 40px;
+}
+.section-map_content{
+	margin: 0 auto;
+width: 95vw;
+border-radius: 10px;
+}
+.map{
+	border-radius: 10px;
+}
+.section-map_content:hover{
+	box-shadow: 0 0 5px 5px rgba(0,0,0,0.1);
+}

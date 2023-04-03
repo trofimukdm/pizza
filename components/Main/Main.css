@@ -1,0 +1,56 @@
+.main-container{
+	background-image: url("../../img/pizza_BG.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top;
+	height: 90vh;
+	/* width: 100%; */
+	margin-top: 50px;
+}
+.products-element__btn:hover{
+	box-shadow: var(--box-shadow);
+}
+.main-message{
+	width: 350px;
+	padding-left: 100px;
+	padding-top: 200px;
+}
+
+.main-info{
+	font-size: 14px;
+	margin-bottom: -40px;
+}
+.main-title{
+	font-size: 30px;
+	color: #c5bebe;
+	font-family: 'Montserrat', sans-serif;
+}
+.main-title span{
+	color:#FFA650;
+}
+@media (max-width: 1120px) {
+  .main-message {
+    padding-top: 110px;
+		
+  }
+	.main-info{
+		font-size: 10px;
+	}
+	.main-title{
+		font-size: 22px;
+		padding-top: 15px;
+	}
+}
+@media (max-width: 1070px) {
+  .main-message {
+    padding-top: 50px;
+		padding-left: 70px;
+  }
+	.main-info{
+		font-size: 8px;
+	}
+	.main-title{
+		font-size: 18px;
+		padding-top: 15px;
+	}
+}
