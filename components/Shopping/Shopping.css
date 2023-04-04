@@ -1,0 +1,117 @@
+#shopping{
+	min-width: 350px;
+}
+.shopping-container {
+	/* position: fixed;
+	top: 50%;
+	left: 50%; */
+	/* width: 97%; */
+	/* height: 100vh; */
+	/* margin: auto; */
+	/* padding: var(--spacing-large); */
+	/* transform: translate(-50%, -50%); */
+	/* background-color: var(--color-white); */
+	/* box-shadow: var(--box-shadow); */
+	/* margin: var(--spacing-extra) auto; */
+	/* margin-top: var(--spacing-extra); */
+	/* background-color: transparent; */
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	/* padding-top: 50px; */
+	padding-bottom: 30px;
+}
+.shopping-element__image{
+	height: 100px;
+}
+.shopping-element__name {
+	padding: var(--spacing-medium);
+	font-weight: bold;
+	/* flex-grow: 1; */
+}
+.shopping-element__price {
+	padding: var(--spacing-medium);
+	color: var(--color-unaccent);
+}
+/* .shopping__close {
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	width: 35px;
+	height: 35px;
+	background-image: url(img/close.svg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	cursor: pointer;
+} */
+
+/* table{
+	margin: auto;
+	width: 1100px;
+}
+table tr:hover {
+	box-shadow: var(--box-shadow);
+} */
+/* ------------------ */
+
+.shopping_itemsContainer{
+	width: 1000px;
+	box-shadow: 0px 5px 5px -5px rgba(34, 60, 80, 0.3);
+	border-radius: var(--border-radius);
+	/* padding-top: 50px; */
+}
+@media (max-width: 1000px){
+	.shopping_itemsContainer{
+		width: 850px;
+	}
+}
+@media (max-width: 850px){
+	.shopping_itemsContainer{
+		width: 650px;
+	}
+}
+@media (max-width: 650px){
+	.shopping_itemsContainer{
+		width: 450px;
+	}
+}
+@media (max-width: 550px){
+	.shopping_itemsContainer{
+		width: 350px;
+	}
+}
+.shopping_item{
+	display: flex;
+	padding: 20px;
+	/* width: 100%; */
+	justify-content: space-between;
+	align-items: center;
+	transition: box-shadow ease-in 0.1s;
+}
+.shopping_item:hover{
+	box-shadow: var(--box-shadow);
+}
+.empty-message{
+	min-width: 400px;
+	padding: 20px 40px;
+	border-left: 7px solid #FF6600;
+	text-align: center;
+	background-color: #FF9966;
+	color: var(--color-white);
+	box-shadow: var(--box-shadow);
+}
+.empty-container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: 100vh;
+}
+.shopping_title{
+	font-weight: bold;
+	font-size: 24px;
+}
+.shopping-btn{
+	padding-bottom: 60px;
+}
