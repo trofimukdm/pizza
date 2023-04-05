@@ -1,0 +1,142 @@
+ [
+    {
+        "id": "0",
+        "name": "Pepperoni",
+				"description": "Tomato sauce, spicy pepperoni, mozzarella",
+        "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/70834e6311c0483493bf2279dbc1718d_292x292.webp",
+        "price": 13
+    },
+    {
+        "id": "1",
+        "name": "Italian",
+				"description": "Italian herbs, tomato sauce, spicy pepperoni, black olives, mozzarella, mushrooms",
+        "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/143590256f2c4010b8028219e2fd93dc_292x292.webp",
+        "price": 23
+    },
+    {
+        "id": "2",
+        "name": "Hawaiian",
+				"description": "Ham, pineapple, mozzarella, tomato sauce",
+        "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/c16bf6aa92ba4792805e1a3d4522ab65_292x292.webp",
+        "price": 21
+    },
+    {
+        "id": "3",
+        "name": "Ham and mushrooms",
+				"description": "Tomato sauce, mozzarella, ham, mushrooms",
+        "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/170dc9490a9f47928d616c9937b55735_292x292.webp",
+        "price": 19
+    },
+    {
+        "id": "4",
+        "name": "Barbecue chicken",
+				"description": "BBQ sauce, tomato sauce, chicken, red onion, mozzarella, bacon",
+        "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/f04f6e1cd2004bfa83389a3563076053_292x292.webp",
+        "price": 14
+    },
+    {
+        "id": "5",
+        "name": "Village",
+				"description": "Oven potatoes, pickles, chicken, ranch sauce, tomatoes, red onions, garlic, mozzarella, tomato sauce",
+        "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/4ce729f1b8db4b60abf8827c7efb28c6_292x292.webp",
+        "price": 14
+    },
+    {
+        "id": "6",
+        "name": "Home",
+				"description": "Spicy pepperoni, ham, pickles, tomatoes, mozzarella, tomato sauce",
+        "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/ee610848581545c298a429c05802f56d_292x292.webp",
+        "price": 13
+    },
+    {
+        "id": "7",
+        "name": "Four Seasons",
+				"description": "Italian herbs, tomato sauce, tomatoes, spicy pepperoni, diced bryndza, mozzarella, ham, mushrooms",
+        "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/f05b3d7ed33647a985d383d68a94bf09_292x292.webp",
+        "price": 28
+    },
+    {
+        "id": "8",
+        "name": "Chicken Ranch",
+				"description": "Chicken, tomatoes, dry garlic, mozzarella, ranch sauce, ham",
+        "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/5a33ea52baed401ca9391b9225ab24b2_292x292.webp",
+        "price": 18
+    },
+    {
+        "id": "9",
+        "name": "Curry chicken",
+				"description": "Chicken, pineapples, curry sauce, red onions, sweet peppers, mozzarella, tomato sauce",
+        "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/db4b32eed52a4eda888a5e3f847093d7_292x292.webp",
+        "price": 15
+    },
+    {
+        "id": "10",
+        "name": "Meat",
+				"description": "Spicy chorizo, tomato sauce, chicken, spicy pepperoni, mozzarella, ham",
+        "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/4fa4de77d8a34912830cfdbedfaff698_292x292.webp",
+        "price": 17
+    },
+    {
+        "id": "11",
+        "name": "Ham and cheese",
+				"description": "Mozzarella, ham, alfredo sauce",
+        "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/bdc5caa51bd64af1b8712fc03aeaf386_292x292.webp",
+        "price": 18
+    },
+    {
+        "id": "12",
+        "name": "Cheese chicken",
+				"description": "Chicken, mozzarella, cheddar and parmesan cheeses, cheese sauce, tomatoes, alfredo sauce, garlic",
+        "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/2d8ceb3abd6646c5a7012916a720e9ed_292x292.webp",
+        "price": 20
+    },
+    {
+        "id": "13",
+        "name": "Four cheeses",
+				"description": "Alfredo sauce, parmesan and cheddar cheeses, blue cheese, mozzarella",
+        "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/91e62f95cea14ceebc06fe046e03e759_292x292.webp",
+        "price": 22
+    },
+    {
+        "id": "14",
+        "name": "Chorizo Fresh",
+				"description": "Tomato sauce, mozzarella, spicy chorizo sausages, sweet peppers",
+        "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/8591cb3a919d4e718f585c0d1837c6c6_292x292.webp",
+        "price": 21
+    },
+    {
+        "id": "15",
+        "name": "Double pepperoni",
+				"description": "Tomato sauce, spicy pepperoni, mozzarella",
+        "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/68826b8afe1f45369e33db7b3ab44ef5_292x292.webp",
+        "price": 16
+    },
+    {
+        "id": "16",
+        "name": "Pepperoni Fresh",
+				"description": "Tomatoes, pepperoni, mozzarella, tomato sauce",
+        "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/ad96af75a4424d16a68439242840f605_292x292.webp",
+        "price": 15
+    },
+    {
+        "id": "17",
+        "name": "Margarita",
+				"description": "Italian herbs, tomato sauce, tomatoes, mozzarella",
+        "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/a10ad669c5054be2b019613e5cfd2477_292x292.webp",
+        "price": 14
+    },
+    {
+        "id": "18",
+        "name": "Barbecue Sausages",
+				"description": "Spicy chorizo sausages, barbecue sauce, tomatoes, red onions, mozzarella, tomato sauce",
+        "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/5652bea74e0e4deba4736cf47927bfa8_292x292.webp",
+        "price": 13
+    },
+    {
+        "id": "19",
+        "name": "Double chicken",
+				"description": "Chicken, mozzarella, alfredo sauce",
+        "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/e92a60c5f5e143e38a99fa593a2c984a_292x292.webp",
+        "price": 13
+    }
+]
