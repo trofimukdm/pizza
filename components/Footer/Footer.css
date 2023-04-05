@@ -1,0 +1,18 @@
+#footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+.footer-container {
+  background: #bdbebd;
+  height: 30px;
+  min-width: 300px;
+}
+.footer-message {
+  font-family: "Montserrat", sans-serif;
+  color: rgba(255, 255, 255, 0.7);
+  text-align: center;
+  font-weight: 900;
+  font-size: 20px;
+  vertical-align: middle;
+}

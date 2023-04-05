@@ -1,0 +1,32 @@
+.main-container {
+  background-image: url("../../img/pizza_BG.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 95vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 400px;
+}
+.products-element__btn:hover {
+  box-shadow: var(--box-shadow);
+}
+.main-message {
+  position: relative;
+  width: 250px;
+  left: -30px;
+}
+
+.main-info {
+  font-size: 14px;
+  margin-bottom: -40px;
+}
+.main-title {
+  font-size: 30px;
+  color: #c5bebe;
+  font-family: "Montserrat", sans-serif;
+}
+.main-title span {
+  color: #ffa650;
+}
